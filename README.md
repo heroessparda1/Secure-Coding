@@ -1,4 +1,4 @@
-**#🛡️ PHP Secure Coding Checker**
+**🛡️ PHP Secure Coding Checker**
 
 Script ini digunakan untuk melakukan pemeriksaan keamanan kode PHP secara otomatis dengan mengintegrasikan beberapa tools keamanan seperti:
 
